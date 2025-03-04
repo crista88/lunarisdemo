@@ -1,0 +1,566 @@
+0000.001 (0) Opened log file at time: Fri, 28 Feb 2025 09:51:03 +0000 on http://localhost:10004
+0000.009 (0) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.25.2 WP: 6.7.2 PHP: 8.2.23 (cgi-fcgi, Windows NT DESKTOP-9EVV04E 10.0 build 19045 (Windows 10) AMD64) MySQL: 8.0.35 (max packet size=16777216) WPLANG: ro_RO Server: nginx/1.26.1 safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 7.2M | 8M) multisite: N openssl: OpenSSL 3.0.13 30 Jan 2024 mcrypt: N LANG:  WP Proxy: disabled ZipArchive::addFile: Y
+0000.017 (0) Free space on disk containing Updraft's temporary directory: 9823.2 MB
+0000.025 (0) Tasks: Backup files: 1 (schedule: weekly) Backup DB: 1 (schedule: weekly)
+0000.067 (0) Requesting semaphore lock (fd) (apparently not via scheduler)
+0000.103 (0) Semaphore (fd, wp_options) was stuck, set lock time to 2025-02-28 09:51:03
+0000.110 (0) Semaphore (fd, wp_options) reset to 1
+0000.115 (0) Set semaphore last lock (fd) time to 2025-02-28 09:51:03
+0000.126 (0) Semaphore lock (fd) complete
+0000.146 (0) Backup run: resumption=0, nonce=e860488a4b51, file_nonce=e860488a4b51 begun at=1740736263 (0s ago), job type=backup
+0000.158 (0) Scheduling a resumption (1) after 300 seconds (1740736563) in case this run gets aborted
+0000.230 (0) Checking if we have a zip executable available
+0000.241 (0) Creation of backups of directories: beginning
+0000.263 (0) Beginning creation of dump of plugins (split every: 400 MB)
+0003.111 (0) Total entities for the zip file: 1835 directories, 7682 files (0 skipped as non-modified), 137.8 MB
+0003.135 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0 MB, 1 (1) files added so far); re-opening (prior size: 0 KB)
+0003.315 (0) Zip: backup_2025-02-28-1151_Lunaris_Photography_e860488a4b51-plugins.zip.tmp: 100 files added (on-disk size: 334.1 KB)
+0003.360 (0) Zip: backup_2025-02-28-1151_Lunaris_Photography_e860488a4b51-plugins.zip.tmp: 200 files added (on-disk size: 334.1 KB)
+0003.408 (0) Zip: backup_2025-02-28-1151_Lunaris_Photography_e860488a4b51-plugins.zip.tmp: 300 files added (on-disk size: 334.1 KB)
+0003.454 (0) Zip: backup_2025-02-28-1151_Lunaris_Photography_e860488a4b51-plugins.zip.tmp: 400 files added (on-disk size: 334.1 KB)
+0003.498 (0) Zip: backup_2025-02-28-1151_Lunaris_Photography_e860488a4b51-plugins.zip.tmp: 500 files added (on-disk size: 334.1 KB)
+0003.543 (0) Zip: backup_2025-02-28-1151_Lunaris_Photography_e860488a4b51-plugins.zip.tmp: 600 files added (on-disk size: 334.1 KB)
+0003.597 (0) Zip: backup_2025-02-28-1151_Lunaris_Photography_e860488a4b51-plugins.zip.tmp: 700 files added (on-disk size: 334.1 KB)
+0003.652 (0) Zip: backup_2025-02-28-1151_Lunaris_Photography_e860488a4b51-plugins.zip.tmp: 800 files added (on-disk size: 334.1 KB)
+0003.717 (0) Zip: backup_2025-02-28-1151_Lunaris_Photography_e860488a4b51-plugins.zip.tmp: 900 files added (on-disk size: 334.1 KB)
+0003.780 (0) Zip: backup_2025-02-28-1151_Lunaris_Photography_e860488a4b51-plugins.zip.tmp: 1000 files added (on-disk size: 334.1 KB)
+0003.790 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (6.3 MB, 7682 files batched, 1001 (1002) added so far); re-opening (prior size: 334.1 KB)
+0023.870 (0) Zip: backup_2025-02-28-1151_Lunaris_Photography_e860488a4b51-plugins.zip.tmp: 1100 files added (on-disk size: 5091.7 KB)
+0023.915 (0) Zip: backup_2025-02-28-1151_Lunaris_Photography_e860488a4b51-plugins.zip.tmp: 1200 files added (on-disk size: 5091.7 KB)
+0023.960 (0) Zip: backup_2025-02-28-1151_Lunaris_Photography_e860488a4b51-plugins.zip.tmp: 1300 files added (on-disk size: 5091.7 KB)
+0024.004 (0) Zip: backup_2025-02-28-1151_Lunaris_Photography_e860488a4b51-plugins.zip.tmp: 1400 files added (on-disk size: 5091.7 KB)
+0024.046 (0) Zip: backup_2025-02-28-1151_Lunaris_Photography_e860488a4b51-plugins.zip.tmp: 1500 files added (on-disk size: 5091.7 KB)
+0024.091 (0) Zip: backup_2025-02-28-1151_Lunaris_Photography_e860488a4b51-plugins.zip.tmp: 1600 files added (on-disk size: 5091.7 KB)
+0024.138 (0) Zip: backup_2025-02-28-1151_Lunaris_Photography_e860488a4b51-plugins.zip.tmp: 1700 files added (on-disk size: 5091.7 KB)
+0024.183 (0) Zip: backup_2025-02-28-1151_Lunaris_Photography_e860488a4b51-plugins.zip.tmp: 1800 files added (on-disk size: 5091.7 KB)
+0024.227 (0) Zip: backup_2025-02-28-1151_Lunaris_Photography_e860488a4b51-plugins.zip.tmp: 1900 files added (on-disk size: 5091.7 KB)
+0024.269 (0) Zip: backup_2025-02-28-1151_Lunaris_Photography_e860488a4b51-plugins.zip.tmp: 2000 files added (on-disk size: 5091.7 KB)
+0024.278 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (11.6 MB, 7682 files batched, 1001 (2003) added so far); re-opening (prior size: 5091.7 KB)
+0042.799 (0) Zip: backup_2025-02-28-1151_Lunaris_Photography_e860488a4b51-plugins.zip.tmp: 2100 files added (on-disk size: 11344.4 KB)
+0042.856 (0) Zip: backup_2025-02-28-1151_Lunaris_Photography_e860488a4b51-plugins.zip.tmp: 2200 files added (on-disk size: 11344.4 KB)
+0042.919 (0) Zip: backup_2025-02-28-1151_Lunaris_Photography_e860488a4b51-plugins.zip.tmp: 2300 files added (on-disk size: 11344.4 KB)
+0043.005 (0) Zip: backup_2025-02-28-1151_Lunaris_Photography_e860488a4b51-plugins.zip.tmp: 2400 files added (on-disk size: 11344.4 KB)
+0043.072 (0) Zip: backup_2025-02-28-1151_Lunaris_Photography_e860488a4b51-plugins.zip.tmp: 2500 files added (on-disk size: 11344.4 KB)
+0043.139 (0) Zip: backup_2025-02-28-1151_Lunaris_Photography_e860488a4b51-plugins.zip.tmp: 2600 files added (on-disk size: 11344.4 KB)
+0043.204 (0) Zip: backup_2025-02-28-1151_Lunaris_Photography_e860488a4b51-plugins.zip.tmp: 2700 files added (on-disk size: 11344.4 KB)
+0043.258 (0) Zip: backup_2025-02-28-1151_Lunaris_Photography_e860488a4b51-plugins.zip.tmp: 2800 files added (on-disk size: 11344.4 KB)
+0043.312 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 25 MB added on this batch (25.3 MB, 7682 files batched, 888 (2891) added so far); re-opening (prior size: 11344.4 KB)
+0057.840 (0) A useful amount of data was added after this amount of zip processing: 15.2 s (normalised: 15 s, rate: 1707.7 KB/s)
+0057.906 (0) Zip: backup_2025-02-28-1151_Lunaris_Photography_e860488a4b51-plugins.zip.tmp: 2900 files added (on-disk size: 17968.9 KB)
+0057.964 (0) Zip: backup_2025-02-28-1151_Lunaris_Photography_e860488a4b51-plugins.zip.tmp: 3000 files added (on-disk size: 17968.9 KB)
+0058.017 (0) Zip: backup_2025-02-28-1151_Lunaris_Photography_e860488a4b51-plugins.zip.tmp: 3100 files added (on-disk size: 17968.9 KB)
+0058.087 (0) Zip: backup_2025-02-28-1151_Lunaris_Photography_e860488a4b51-plugins.zip.tmp: 3200 files added (on-disk size: 17968.9 KB)
+0058.165 (0) Zip: backup_2025-02-28-1151_Lunaris_Photography_e860488a4b51-plugins.zip.tmp: 3300 files added (on-disk size: 17968.9 KB)
+0058.200 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 25 MB added on this batch (25.3 MB, 7682 files batched, 458 (3349) added so far); re-opening (prior size: 17968.9 KB)
+0072.657 (0) A useful amount of data was added after this amount of zip processing: 15 s (normalised: 14.8 s, rate: 1726.6 KB/s)
+0072.751 (0) Zip: backup_2025-02-28-1151_Lunaris_Photography_e860488a4b51-plugins.zip.tmp: 3400 files added (on-disk size: 24178.5 KB)
+0072.812 (0) Zip: backup_2025-02-28-1151_Lunaris_Photography_e860488a4b51-plugins.zip.tmp: 3500 files added (on-disk size: 24178.5 KB)
+0072.866 (0) Zip: backup_2025-02-28-1151_Lunaris_Photography_e860488a4b51-plugins.zip.tmp: 3600 files added (on-disk size: 24178.5 KB)
+0072.919 (0) Zip: backup_2025-02-28-1151_Lunaris_Photography_e860488a4b51-plugins.zip.tmp: 3700 files added (on-disk size: 24178.5 KB)
+0072.974 (0) Zip: backup_2025-02-28-1151_Lunaris_Photography_e860488a4b51-plugins.zip.tmp: 3800 files added (on-disk size: 24178.5 KB)
+0073.045 (0) Zip: backup_2025-02-28-1151_Lunaris_Photography_e860488a4b51-plugins.zip.tmp: 3900 files added (on-disk size: 24178.5 KB)
+0073.104 (0) Zip: backup_2025-02-28-1151_Lunaris_Photography_e860488a4b51-plugins.zip.tmp: 4000 files added (on-disk size: 24178.5 KB)
+0073.166 (0) Zip: backup_2025-02-28-1151_Lunaris_Photography_e860488a4b51-plugins.zip.tmp: 4100 files added (on-disk size: 24178.5 KB)
+0073.233 (0) Zip: backup_2025-02-28-1151_Lunaris_Photography_e860488a4b51-plugins.zip.tmp: 4200 files added (on-disk size: 24178.5 KB)
+0073.296 (0) Zip: backup_2025-02-28-1151_Lunaris_Photography_e860488a4b51-plugins.zip.tmp: 4300 files added (on-disk size: 24178.5 KB)
+0073.331 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (11.6 MB, 7682 files batched, 1001 (4350) added so far); re-opening (prior size: 24178.5 KB)
+0111.273 (0) Zip: backup_2025-02-28-1151_Lunaris_Photography_e860488a4b51-plugins.zip.tmp: 4400 files added (on-disk size: 28662.6 KB)
+0111.321 (0) Zip: backup_2025-02-28-1151_Lunaris_Photography_e860488a4b51-plugins.zip.tmp: 4500 files added (on-disk size: 28662.6 KB)
+0111.371 (0) Zip: backup_2025-02-28-1151_Lunaris_Photography_e860488a4b51-plugins.zip.tmp: 4600 files added (on-disk size: 28662.6 KB)
+0111.420 (0) Zip: backup_2025-02-28-1151_Lunaris_Photography_e860488a4b51-plugins.zip.tmp: 4700 files added (on-disk size: 28662.6 KB)
+0111.467 (0) Zip: backup_2025-02-28-1151_Lunaris_Photography_e860488a4b51-plugins.zip.tmp: 4800 files added (on-disk size: 28662.6 KB)
+0111.516 (0) Zip: backup_2025-02-28-1151_Lunaris_Photography_e860488a4b51-plugins.zip.tmp: 4900 files added (on-disk size: 28662.6 KB)
+0111.565 (0) Zip: backup_2025-02-28-1151_Lunaris_Photography_e860488a4b51-plugins.zip.tmp: 5000 files added (on-disk size: 28662.6 KB)
+0111.613 (0) Zip: backup_2025-02-28-1151_Lunaris_Photography_e860488a4b51-plugins.zip.tmp: 5100 files added (on-disk size: 28662.6 KB)
+0111.659 (0) Zip: backup_2025-02-28-1151_Lunaris_Photography_e860488a4b51-plugins.zip.tmp: 5200 files added (on-disk size: 28662.6 KB)
+0111.706 (0) Zip: backup_2025-02-28-1151_Lunaris_Photography_e860488a4b51-plugins.zip.tmp: 5300 files added (on-disk size: 28662.6 KB)
+0111.735 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (15.9 MB, 7682 files batched, 1001 (5351) added so far); re-opening (prior size: 28662.6 KB)
+0140.839 (0) Zip: backup_2025-02-28-1151_Lunaris_Photography_e860488a4b51-plugins.zip.tmp: 5400 files added (on-disk size: 34257 KB)
+0140.883 (0) Zip: backup_2025-02-28-1151_Lunaris_Photography_e860488a4b51-plugins.zip.tmp: 5500 files added (on-disk size: 34257 KB)
+0140.930 (0) Zip: backup_2025-02-28-1151_Lunaris_Photography_e860488a4b51-plugins.zip.tmp: 5600 files added (on-disk size: 34257 KB)
+0140.979 (0) Zip: backup_2025-02-28-1151_Lunaris_Photography_e860488a4b51-plugins.zip.tmp: 5700 files added (on-disk size: 34257 KB)
+0141.026 (0) Zip: backup_2025-02-28-1151_Lunaris_Photography_e860488a4b51-plugins.zip.tmp: 5800 files added (on-disk size: 34257 KB)
+0141.072 (0) Zip: backup_2025-02-28-1151_Lunaris_Photography_e860488a4b51-plugins.zip.tmp: 5900 files added (on-disk size: 34257 KB)
+0141.120 (0) Zip: backup_2025-02-28-1151_Lunaris_Photography_e860488a4b51-plugins.zip.tmp: 6000 files added (on-disk size: 34257 KB)
+0141.170 (0) Zip: backup_2025-02-28-1151_Lunaris_Photography_e860488a4b51-plugins.zip.tmp: 6100 files added (on-disk size: 34257 KB)
+0141.217 (0) Zip: backup_2025-02-28-1151_Lunaris_Photography_e860488a4b51-plugins.zip.tmp: 6200 files added (on-disk size: 34257 KB)
+0141.264 (0) Zip: backup_2025-02-28-1151_Lunaris_Photography_e860488a4b51-plugins.zip.tmp: 6300 files added (on-disk size: 34257 KB)
+0141.293 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (16 MB, 7682 files batched, 1001 (6352) added so far); re-opening (prior size: 34257 KB)
+0185.388 (0) Zip: backup_2025-02-28-1151_Lunaris_Photography_e860488a4b51-plugins.zip.tmp: 6400 files added (on-disk size: 37763.3 KB)
+0185.433 (0) Zip: backup_2025-02-28-1151_Lunaris_Photography_e860488a4b51-plugins.zip.tmp: 6500 files added (on-disk size: 37763.3 KB)
+0185.478 (0) Zip: backup_2025-02-28-1151_Lunaris_Photography_e860488a4b51-plugins.zip.tmp: 6600 files added (on-disk size: 37763.3 KB)
+0185.524 (0) Zip: backup_2025-02-28-1151_Lunaris_Photography_e860488a4b51-plugins.zip.tmp: 6700 files added (on-disk size: 37763.3 KB)
+0185.571 (0) Zip: backup_2025-02-28-1151_Lunaris_Photography_e860488a4b51-plugins.zip.tmp: 6800 files added (on-disk size: 37763.3 KB)
+0185.615 (0) Zip: backup_2025-02-28-1151_Lunaris_Photography_e860488a4b51-plugins.zip.tmp: 6900 files added (on-disk size: 37763.3 KB)
+0185.659 (0) Zip: backup_2025-02-28-1151_Lunaris_Photography_e860488a4b51-plugins.zip.tmp: 7000 files added (on-disk size: 37763.3 KB)
+0185.707 (0) Zip: backup_2025-02-28-1151_Lunaris_Photography_e860488a4b51-plugins.zip.tmp: 7100 files added (on-disk size: 37763.3 KB)
+0185.753 (0) Zip: backup_2025-02-28-1151_Lunaris_Photography_e860488a4b51-plugins.zip.tmp: 7200 files added (on-disk size: 37763.3 KB)
+0185.799 (0) Zip: backup_2025-02-28-1151_Lunaris_Photography_e860488a4b51-plugins.zip.tmp: 7300 files added (on-disk size: 37763.3 KB)
+0185.827 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (23.9 MB, 7682 files batched, 1001 (7353) added so far); re-opening (prior size: 37763.3 KB)
+0213.694 (0) Zip: backup_2025-02-28-1151_Lunaris_Photography_e860488a4b51-plugins.zip.tmp: 7400 files added (on-disk size: 44793.7 KB)
+0213.739 (0) Zip: backup_2025-02-28-1151_Lunaris_Photography_e860488a4b51-plugins.zip.tmp: 7500 files added (on-disk size: 44793.7 KB)
+0213.786 (0) Zip: backup_2025-02-28-1151_Lunaris_Photography_e860488a4b51-plugins.zip.tmp: 7600 files added (on-disk size: 44793.7 KB)
+0221.194 (0) Creating zip file manifest (backup_2025-02-28-1151_Lunaris_Photography_e860488a4b51-plugins.zip.list-temp.tmp)
+0221.243 (0) Successfully created zip file manifest (size: 655087)
+0221.805 (0) Created plugins zip (0) - 45543.3 KB in 221.5 s (205.6 KB/s) (sha1: 115cdc03c3f7cc459a7d6e6895be792a7a2f3acb, sha256: e25503621967789ce47279ab555bb36ce58df304e192db66caa867c632e18952)
+0221.836 (0) Cloud backup selection (1/1): googledrive with instance (1/1) (last)
+0221.843 (0) Beginning dispatch of backup to remote (googledrive) (instance identifier s-bcdb7d579a22669c9e27afc2d1d655db)
+0225.824 (0) Google Drive: quota usage: used=5484.6 MB, total=15360 MB, available=9875.4 MB
+0225.831 (0) Google Drive: backup_2025-02-28-1151_Lunaris_Photography_e860488a4b51-plugins.zip: Attempting to upload to Google Drive (into folder id: 1M2y9KlSqTQAF3CKpypnBut-yR6OKA2xK)
+0230.452 (0) Googledrive chunked upload: 2.2 % uploaded (1048576)
+0234.495 (0) Googledrive chunked upload: 4.5 % uploaded (2097152)
+0238.124 (0) Googledrive chunked upload: 6.7 % uploaded (3145728)
+0241.468 (0) Googledrive chunked upload: 9 % uploaded (4194304)
+0245.168 (0) Googledrive chunked upload: 11.2 % uploaded (5242880)
+0248.375 (0) Googledrive chunked upload: 13.5 % uploaded (6291456)
+0251.638 (0) Googledrive chunked upload: 15.7 % uploaded (7340032)
+0256.023 (0) The scheduled resumption is within 45 seconds - will reschedule
+0256.034 (0) Rescheduling resumption 1: moving to 345 seconds from now (1740736864)
+0256.054 (0) To decrease the likelihood of overlaps, increasing resumption interval to: 300 + 45 = 345
+0256.060 (0) Googledrive chunked upload: 18 % uploaded (8388608)
+0260.101 (0) Googledrive chunked upload: 20.2 % uploaded (9437184)
+0265.612 (0) Googledrive chunked upload: 22.5 % uploaded (10485760)
+0268.641 (0) Googledrive chunked upload: 24.7 % uploaded (11534336)
+0271.647 (0) Googledrive chunked upload: 27 % uploaded (12582912)
+0275.012 (0) Googledrive chunked upload: 29.2 % uploaded (13631488)
+0278.324 (0) Googledrive chunked upload: 31.5 % uploaded (14680064)
+0281.262 (0) Googledrive chunked upload: 33.7 % uploaded (15728640)
+0284.089 (0) Googledrive chunked upload: 36 % uploaded (16777216)
+0286.662 (0) Googledrive chunked upload: 38.2 % uploaded (17825792)
+0288.953 (0) Googledrive chunked upload: 40.5 % uploaded (18874368 - increasing chunk size to 2048 KB - memory usage: 9.3 / 14)
+0293.035 (0) Googledrive chunked upload: 45 % uploaded (20971520)
+0297.467 (0) Googledrive chunked upload: 49.5 % uploaded (23068672)
+0302.008 (0) Googledrive chunked upload: 54 % uploaded (25165824)
+0306.401 (0) Googledrive chunked upload: 58.5 % uploaded (27262976)
+0312.591 (0) Googledrive chunked upload: 63 % uploaded (29360128)
+0317.455 (0) The time we have been running (317.4) is approaching the resumption interval (345) - increasing resumption interval to 348
+0317.481 (0) Googledrive chunked upload: 67.5 % uploaded (31457280)
+0322.377 (0) The time we have been running (322.4) is approaching the resumption interval (348) - increasing resumption interval to 353
+0322.392 (0) Googledrive chunked upload: 71.9 % uploaded (33554432)
+0327.700 (0) The time we have been running (327.7) is approaching the resumption interval (353) - increasing resumption interval to 358
+0327.715 (0) Googledrive chunked upload: 76.4 % uploaded (35651584)
+0332.395 (0) The time we have been running (332.4) is approaching the resumption interval (358) - increasing resumption interval to 363
+0332.409 (0) Googledrive chunked upload: 80.9 % uploaded (37748736)
+0337.163 (0) The time we have been running (337.1) is approaching the resumption interval (363) - increasing resumption interval to 368
+0337.180 (0) Googledrive chunked upload: 85.4 % uploaded (39845888)
+0341.906 (0) The time we have been running (341.9) is approaching the resumption interval (368) - increasing resumption interval to 372
+0341.925 (0) Googledrive chunked upload: 89.9 % uploaded (41943040)
+0347.000 (0) The time we have been running (347) is approaching the resumption interval (372) - increasing resumption interval to 377
+0347.015 (0) Googledrive chunked upload: 94.4 % uploaded (44040192)
+0351.795 (0) The time we have been running (351.8) is approaching the resumption interval (377) - increasing resumption interval to 382
+0351.810 (0) Googledrive chunked upload: 98.9 % uploaded (46137344)
+0354.595 (0) The time we have been running (354.6) is approaching the resumption interval (382) - increasing resumption interval to 385
+0354.607 (0) Googledrive chunked upload: 100 % uploaded (46137344)
+0354.629 (0) Google Drive: OK: Archive backup_2025-02-28-1151_Lunaris_Photography_e860488a4b51-plugins.zip uploaded in 128.79 seconds
+0354.636 (0) Recording as successfully uploaded: backup_2025-02-28-1151_Lunaris_Photography_e860488a4b51-plugins.zip
+0355.349 (0) Deleting local file: backup_2025-02-28-1151_Lunaris_Photography_e860488a4b51-plugins.zip: OK
+0355.378 (0) Beginning creation of dump of themes (split every: 400 MB)
+0355.416 (0) Total entities for the zip file: 15 directories, 68 files (0 skipped as non-modified), 0.4 MB
+0356.378 (0) The time we have been running (356.4) is approaching the resumption interval (385) - increasing resumption interval to 387
+0356.394 (0) Creating zip file manifest (backup_2025-02-28-1151_Lunaris_Photography_e860488a4b51-themes.zip.list-temp.tmp)
+0356.401 (0) Successfully created zip file manifest (size: 4226)
+0356.434 (0) Created themes zip (0) - 207 KB in 1 s (198.8 KB/s) (sha1: c14c320eb437db0ba8995b6b377884ecb0c2f61c, sha256: 8ff325d37b3a5894122a29f97b3aaa14b9276d1920fd3df1d265b8308e4357ee)
+0356.459 (0) Cloud backup selection (1/1): googledrive with instance (1/1) (last)
+0356.464 (0) Beginning dispatch of backup to remote (googledrive) (instance identifier s-bcdb7d579a22669c9e27afc2d1d655db)
+0357.328 (0) Google Drive: quota usage: used=5529.1 MB, total=15360 MB, available=9830.9 MB
+0357.332 (0) Google Drive: backup_2025-02-28-1151_Lunaris_Photography_e860488a4b51-themes.zip: Attempting to upload to Google Drive (into folder id: 1M2y9KlSqTQAF3CKpypnBut-yR6OKA2xK)
+0360.644 (0) The time we have been running (360.6) is approaching the resumption interval (387) - increasing resumption interval to 391
+0360.654 (0) Googledrive chunked upload: 100 % uploaded
+0360.689 (0) Google Drive: OK: Archive backup_2025-02-28-1151_Lunaris_Photography_e860488a4b51-themes.zip uploaded in 3.35 seconds
+0360.697 (0) Recording as successfully uploaded: backup_2025-02-28-1151_Lunaris_Photography_e860488a4b51-themes.zip
+0360.708 (0) Deleting local file: backup_2025-02-28-1151_Lunaris_Photography_e860488a4b51-themes.zip: OK
+0360.730 (0) Exclusion option setting (uploads): backup*,*backups,backwpup*,wp-clone,snapshots
+0360.735 (0) Looking for candidates to backup in: C:\Users\Personal\Local Sites\test1\app\public/wp-content/uploads
+0360.744 (0) finding files: 2025: adding to list (1)
+0360.752 (0) finding files: elementor: adding to list (2)
+0360.757 (0) finding files: ithemes-security: adding to list (3)
+0360.763 (0) finding files: template-kits: adding to list (4)
+0360.770 (0) Beginning creation of dump of uploads (split every: 400 MB)
+0361.035 (0) Total entities for the zip file: 13 directories, 663 files (0 skipped as non-modified), 59.3 MB
+0361.087 (0) Zip: backup_2025-02-28-1151_Lunaris_Photography_e860488a4b51-uploads.zip.tmp: 100 files added (on-disk size: 0 KB)
+0361.158 (0) Zip: backup_2025-02-28-1151_Lunaris_Photography_e860488a4b51-uploads.zip.tmp: 200 files added (on-disk size: 0 KB)
+0361.212 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 25 MB added on this batch (25.1 MB, 663 files batched, 294 (294) added so far); re-opening (prior size: 0 KB)
+0361.890 (0) The time we have been running (361.9) is approaching the resumption interval (391) - increasing resumption interval to 392
+0361.904 (0) A useful amount of data was added after this amount of zip processing: 1.2 s (normalised: 1.2 s, rate: 20558.4 KB/s)
+0361.917 (0) Performance is good - will increase the amount of data we attempt to batch (time=1.2478070259094, normalised_time=1.2452318095363, max_time=361.9107940197, data points known=1, old_max_bytes=26214400, new_max_bytes=209715200)
+0361.933 (0) Zip: backup_2025-02-28-1151_Lunaris_Photography_e860488a4b51-uploads.zip.tmp: 300 files added (on-disk size: 25711 KB)
+0361.979 (0) Zip: backup_2025-02-28-1151_Lunaris_Photography_e860488a4b51-uploads.zip.tmp: 400 files added (on-disk size: 25711 KB)
+0362.027 (0) Zip: backup_2025-02-28-1151_Lunaris_Photography_e860488a4b51-uploads.zip.tmp: 500 files added (on-disk size: 25711 KB)
+0362.083 (0) Zip: backup_2025-02-28-1151_Lunaris_Photography_e860488a4b51-uploads.zip.tmp: 600 files added (on-disk size: 25711 KB)
+0364.155 (0) The time we have been running (364.1) is approaching the resumption interval (392) - increasing resumption interval to 395
+0364.173 (0) Creating zip file manifest (backup_2025-02-28-1151_Lunaris_Photography_e860488a4b51-uploads.zip.list-temp.tmp)
+0364.183 (0) Successfully created zip file manifest (size: 51954)
+0364.784 (0) Created uploads zip (0) - 55338.4 KB in 4 s (13838.7 KB/s) (sha1: 80bdb79d418be69382fe497a7143b0c685d48fd8, sha256: 4fc3b20c841f06c3581d9cc85f9c96f1a66f634d45ae9cd3fd1458bee57d1213)
+0364.805 (0) Cloud backup selection (1/1): googledrive with instance (1/1) (last)
+0364.810 (0) Beginning dispatch of backup to remote (googledrive) (instance identifier s-bcdb7d579a22669c9e27afc2d1d655db)
+0365.747 (0) Google Drive: quota usage: used=5529.3 MB, total=15360 MB, available=9830.7 MB
+0365.755 (0) Google Drive: backup_2025-02-28-1151_Lunaris_Photography_e860488a4b51-uploads.zip: Attempting to upload to Google Drive (into folder id: 1M2y9KlSqTQAF3CKpypnBut-yR6OKA2xK)
+0370.031 (0) The time we have been running (370) is approaching the resumption interval (395) - increasing resumption interval to 401
+0370.044 (0) Googledrive chunked upload: 1.9 % uploaded (1048576)
+0372.701 (0) The time we have been running (372.7) is approaching the resumption interval (401) - increasing resumption interval to 403
+0372.714 (0) Googledrive chunked upload: 3.7 % uploaded (2097152)
+0375.459 (0) The time we have been running (375.4) is approaching the resumption interval (403) - increasing resumption interval to 406
+0375.475 (0) Googledrive chunked upload: 5.6 % uploaded (3145728)
+0377.837 (0) The time we have been running (377.8) is approaching the resumption interval (406) - increasing resumption interval to 408
+0377.852 (0) Googledrive chunked upload: 7.4 % uploaded (4194304 - increasing chunk size to 2048 KB - memory usage: 8.3 / 14)
+0382.250 (0) The time we have been running (382.2) is approaching the resumption interval (408) - increasing resumption interval to 413
+0382.264 (0) Googledrive chunked upload: 11.1 % uploaded (6291456)
+0387.248 (0) The time we have been running (387.2) is approaching the resumption interval (413) - increasing resumption interval to 418
+0387.263 (0) Googledrive chunked upload: 14.8 % uploaded (8388608)
+0392.531 (0) The time we have been running (392.5) is approaching the resumption interval (418) - increasing resumption interval to 423
+0392.543 (0) Googledrive chunked upload: 18.5 % uploaded (10485760)
+0397.299 (0) The time we have been running (397.3) is approaching the resumption interval (423) - increasing resumption interval to 428
+0397.316 (0) Googledrive chunked upload: 22.2 % uploaded (12582912)
+0401.618 (0) The time we have been running (401.6) is approaching the resumption interval (428) - increasing resumption interval to 432
+0401.632 (0) Googledrive chunked upload: 25.9 % uploaded (14680064)
+0406.899 (0) The time we have been running (406.9) is approaching the resumption interval (432) - increasing resumption interval to 437
+0406.917 (0) Googledrive chunked upload: 29.6 % uploaded (16777216)
+0411.367 (0) The time we have been running (411.3) is approaching the resumption interval (437) - increasing resumption interval to 442
+0411.381 (0) Googledrive chunked upload: 33.3 % uploaded (18874368)
+0416.323 (0) The time we have been running (416.3) is approaching the resumption interval (442) - increasing resumption interval to 447
+0416.334 (0) Googledrive chunked upload: 37 % uploaded (20971520)
+0421.638 (0) The time we have been running (421.6) is approaching the resumption interval (447) - increasing resumption interval to 452
+0421.651 (0) Googledrive chunked upload: 40.7 % uploaded (23068672)
+0426.601 (0) The time we have been running (426.6) is approaching the resumption interval (452) - increasing resumption interval to 457
+0426.621 (0) Googledrive chunked upload: 44.4 % uploaded (25165824)
+0430.645 (0) The time we have been running (430.6) is approaching the resumption interval (457) - increasing resumption interval to 461
+0430.659 (0) Googledrive chunked upload: 48.1 % uploaded (27262976)
+0434.315 (0) The time we have been running (434.3) is approaching the resumption interval (461) - increasing resumption interval to 465
+0434.336 (0) Googledrive chunked upload: 51.8 % uploaded (29360128)
+0438.489 (0) The time we have been running (438.5) is approaching the resumption interval (465) - increasing resumption interval to 469
+0438.507 (0) Googledrive chunked upload: 55.5 % uploaded (31457280)
+0442.400 (0) The time we have been running (442.4) is approaching the resumption interval (469) - increasing resumption interval to 473
+0442.418 (0) Googledrive chunked upload: 59.2 % uploaded (33554432)
+0446.306 (0) The time we have been running (446.3) is approaching the resumption interval (473) - increasing resumption interval to 477
+0446.319 (0) Googledrive chunked upload: 62.9 % uploaded (35651584)
+0451.746 (0) The time we have been running (451.7) is approaching the resumption interval (477) - increasing resumption interval to 482
+0451.757 (0) Googledrive chunked upload: 66.6 % uploaded (37748736)
+0455.547 (0) The time we have been running (455.5) is approaching the resumption interval (482) - increasing resumption interval to 486
+0455.566 (0) Googledrive chunked upload: 70.3 % uploaded (39845888)
+0459.304 (0) The time we have been running (459.3) is approaching the resumption interval (486) - increasing resumption interval to 490
+0459.317 (0) Googledrive chunked upload: 74 % uploaded (41943040)
+0463.081 (0) The time we have been running (463.1) is approaching the resumption interval (490) - increasing resumption interval to 494
+0463.095 (0) Googledrive chunked upload: 77.7 % uploaded (44040192)
+0466.858 (0) The time we have been running (466.8) is approaching the resumption interval (494) - increasing resumption interval to 497
+0466.874 (0) Googledrive chunked upload: 81.4 % uploaded (46137344)
+0470.322 (0) The time we have been running (470.3) is approaching the resumption interval (497) - increasing resumption interval to 501
+0470.333 (0) Googledrive chunked upload: 85.1 % uploaded (48234496)
+0473.978 (0) The time we have been running (474) is approaching the resumption interval (501) - increasing resumption interval to 504
+0473.993 (0) Googledrive chunked upload: 88.8 % uploaded (50331648)
+0483.910 (0) The time we have been running (483.9) is approaching the resumption interval (504) - increasing resumption interval to 514
+0483.925 (0) Googledrive chunked upload: 92.5 % uploaded (52428800)
+0488.080 (0) The time we have been running (488.1) is approaching the resumption interval (514) - increasing resumption interval to 519
+0488.096 (0) Googledrive chunked upload: 96.2 % uploaded (54525952)
+0492.528 (0) The time we have been running (492.5) is approaching the resumption interval (519) - increasing resumption interval to 523
+0492.544 (0) Googledrive chunked upload: 99.9 % uploaded (56623104)
+0494.486 (0) The time we have been running (494.5) is approaching the resumption interval (523) - increasing resumption interval to 525
+0494.503 (0) Googledrive chunked upload: 100 % uploaded (56623104)
+0494.531 (0) Google Drive: OK: Archive backup_2025-02-28-1151_Lunaris_Photography_e860488a4b51-uploads.zip uploaded in 128.77 seconds
+0494.545 (0) Recording as successfully uploaded: backup_2025-02-28-1151_Lunaris_Photography_e860488a4b51-uploads.zip
+0494.573 (0) Deleting local file: backup_2025-02-28-1151_Lunaris_Photography_e860488a4b51-uploads.zip: OK
+0494.586 (0) No backup of mu-plugins: excluded by user's options
+0494.597 (0) Beginning backup of other directories found in the content directory (index: 0)
+0494.603 (0) Exclusion option setting (others): upgrade,cache,updraft,backup*,*backups,mysql.sql,debug.log
+0494.607 (0) Looking for candidates to backup in: C:\Users\Personal\Local Sites\test1\app\public/wp-content
+0494.613 (0) finding files: index.php: adding to list (1)
+0494.619 (0) finding files: languages: adding to list (2)
+0494.623 (0) finding files: mu-plugins: skipping: this is the mu-plugins directory
+0494.629 (0) finding files: plugins: skipping: this is the plugins directory
+0494.635 (0) finding files: themes: skipping: this is the themes directory
+0494.640 (0) finding files: updraft: skipping: this is the updraft directory
+0494.644 (0) finding files: upgrade: skipping: excluded by options
+0494.649 (0) finding files: upgrade-temp-backup: adding to list (3)
+0494.654 (0) finding files: uploads: skipping: this is the uploads directory
+0494.708 (0) Total entities for the zip file: 5 directories, 164 files (0 skipped as non-modified), 5.1 MB
+0494.753 (0) Zip: backup_2025-02-28-1151_Lunaris_Photography_e860488a4b51-others.zip.tmp: 100 files added (on-disk size: 0 KB)
+0497.390 (0) The time we have been running (497.4) is approaching the resumption interval (525) - increasing resumption interval to 528
+0497.401 (0) Creating zip file manifest (backup_2025-02-28-1151_Lunaris_Photography_e860488a4b51-others.zip.list-temp.tmp)
+0497.408 (0) Successfully created zip file manifest (size: 11698)
+0497.451 (0) Created others zip (0) - 1512.3 KB in 2.8 s (543.6 KB/s) (sha1: 9e4a634569c544300d50a33c2ed73f3e24b13caf, sha256: cff33c9d85c544187c3c648d4e414aca661afef9f14a8f62150dd5cb4f910ecc)
+0497.471 (0) Cloud backup selection (1/1): googledrive with instance (1/1) (last)
+0497.477 (0) Beginning dispatch of backup to remote (googledrive) (instance identifier s-bcdb7d579a22669c9e27afc2d1d655db)
+0498.386 (0) Google Drive: quota usage: used=5583.4 MB, total=15360 MB, available=9776.6 MB
+0498.393 (0) Google Drive: backup_2025-02-28-1151_Lunaris_Photography_e860488a4b51-others.zip: Attempting to upload to Google Drive (into folder id: 1M2y9KlSqTQAF3CKpypnBut-yR6OKA2xK)
+0501.793 (0) The time we have been running (501.8) is approaching the resumption interval (528) - increasing resumption interval to 532
+0501.811 (0) Googledrive chunked upload: 67.7 % uploaded (1048576)
+0504.208 (0) The time we have been running (504.2) is approaching the resumption interval (532) - increasing resumption interval to 535
+0504.224 (0) Googledrive chunked upload: 100 % uploaded (1048576)
+0504.248 (0) Google Drive: OK: Archive backup_2025-02-28-1151_Lunaris_Photography_e860488a4b51-others.zip uploaded in 5.85 seconds
+0504.256 (0) Recording as successfully uploaded: backup_2025-02-28-1151_Lunaris_Photography_e860488a4b51-others.zip
+0504.286 (0) Deleting local file: backup_2025-02-28-1151_Lunaris_Photography_e860488a4b51-others.zip: OK
+0504.323 (0) Saving backup status to database (elements: 8)
+0504.340 (0) Beginning creation of database dump (WordPress DB)
+0504.347 (0) SQL compatibility mode is: NO_ZERO_IN_DATE,ERROR_FOR_DIVISION_BY_ZERO,NO_ENGINE_SUBSTITUTION
+0504.362 (0) Testing potential mysqldump binary: C:\Program Files\MySQL\MySQL Workbench 8.0\mysqldump.exe
+0505.469 (0) Binary mysqldump: error (code: 2)
+0505.477 (0) Testing potential mysqldump binary: C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqldump.exe
+0505.681 (0) Binary mysqldump: error (code: 2)
+0505.825 (0) Table wp_options: Total expected rows (via COUNT): 353
+0505.832 (0) Table is relatively small; fetch_rows will thus be: 500 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0505.927 (0) Table wp_options: Rows added in this batch (next record: 1382): 349 (uncompressed bytes in this segment=2767901) in 0.19 seconds
+0505.957 (0) The time we have been running (505.9) is approaching the resumption interval (535) - increasing resumption interval to 536
+0505.976 (0) Table wp_options: finishing file(s) (2, 399.1 KB)
+0506.000 (0) Table wp_users: Total expected rows (via COUNT): 2
+0506.006 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0506.018 (0) Table wp_users: Rows added in this batch (next record: 2): 2 (uncompressed bytes in this segment=1509) in 0.02 seconds
+0506.036 (0) The time we have been running (506) is approaching the resumption interval (536) - increasing resumption interval to 537
+0506.064 (0) Table wp_users: finishing file(s) (2, 0.7 KB)
+0506.089 (0) Table wp_usermeta: Total expected rows (via COUNT): 52
+0506.095 (0) Table is relatively small; fetch_rows will thus be: 100 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0506.109 (0) Table wp_usermeta: Rows added in this batch (next record: 58): 52 (uncompressed bytes in this segment=3866) in 0.03 seconds
+0506.137 (0) Table wp_usermeta: finishing file(s) (2, 1.7 KB)
+0506.168 (0) Table wp_commentmeta: Total expected rows (via COUNT): 0
+0506.179 (0) Table wp_commentmeta: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=677) in 0.02 seconds
+0506.213 (0) Table wp_commentmeta: finishing file(s) (2, 0.4 KB)
+0506.234 (0) Table wp_comments: Total expected rows (via COUNT): 1
+0506.240 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0506.256 (0) Table wp_comments: Rows added in this batch (next record: 1): 1 (uncompressed bytes in this segment=2118) in 0.03 seconds
+0506.284 (0) Table wp_comments: finishing file(s) (2, 0.7 KB)
+0506.314 (0) Table wp_e_notes: Total expected rows (via COUNT): 0
+0506.365 (0) Table wp_e_notes: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=2049) in 0.06 seconds
+0506.396 (0) Table wp_e_notes: finishing file(s) (2, 0.8 KB)
+0506.439 (0) Table wp_e_notes_users_relations: Total expected rows (via COUNT): 0
+0506.446 (0) Table wp_e_notes_users_relations: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=871) in 0.03 seconds
+0506.470 (0) Table wp_e_notes_users_relations: finishing file(s) (2, 0.4 KB)
+0506.497 (0) Table wp_itsec_bans: Total expected rows (via COUNT): 0
+0506.504 (0) Table wp_itsec_bans: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=872) in 0.01 seconds
+0506.532 (0) Table wp_itsec_bans: finishing file(s) (2, 0.4 KB)
+0506.555 (0) Table wp_itsec_dashboard_events: Total expected rows (via COUNT): 1
+0506.562 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0506.574 (0) Table wp_itsec_dashboard_events: Rows added in this batch (next record: 1): 1 (uncompressed bytes in this segment=928) in 0.02 seconds
+0506.597 (0) Table wp_itsec_dashboard_events: finishing file(s) (2, 0.5 KB)
+0506.632 (0) Table wp_itsec_dashboard_lockouts: Total expected rows (via COUNT): 0
+0506.644 (0) Table wp_itsec_dashboard_lockouts: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=655) in 0.03 seconds
+0506.668 (0) Table wp_itsec_dashboard_lockouts: finishing file(s) (2, 0.4 KB)
+0506.703 (0) Table wp_itsec_distributed_storage: Total expected rows (via COUNT): 0
+0506.710 (0) Table wp_itsec_distributed_storage: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=907) in 0.03 seconds
+0506.740 (0) Table wp_itsec_distributed_storage: finishing file(s) (2, 0.4 KB)
+0506.781 (0) Table wp_itsec_fingerprints: Total expected rows (via COUNT): 0
+0506.788 (0) Table wp_itsec_fingerprints: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1211) in 0.03 seconds
+0506.816 (0) Table wp_itsec_fingerprints: finishing file(s) (2, 0.5 KB)
+0506.842 (0) Table wp_itsec_firewall_rules: Total expected rows (via COUNT): 0
+0506.848 (0) Table wp_itsec_firewall_rules: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=986) in 0.01 seconds
+0506.873 (0) Table wp_itsec_firewall_rules: finishing file(s) (2, 0.4 KB)
+0506.905 (0) Table wp_itsec_geolocation_cache: Total expected rows (via COUNT): 0
+0506.911 (0) Table wp_itsec_geolocation_cache: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=997) in 0.02 seconds
+0506.933 (0) Table wp_itsec_geolocation_cache: finishing file(s) (2, 0.4 KB)
+0506.955 (0) Table wp_itsec_lockouts: Total expected rows (via COUNT): 0
+0506.962 (0) Table wp_itsec_lockouts: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1198) in 0.01 seconds
+0506.984 (0) Table wp_itsec_lockouts: finishing file(s) (2, 0.5 KB)
+0507.036 (0) Table wp_itsec_logs: Total expected rows (via COUNT): 29
+0507.042 (0) Table is relatively small; fetch_rows will thus be: 50 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0507.054 (0) Table wp_itsec_logs: Rows added in this batch (next record: 29): 29 (uncompressed bytes in this segment=18711) in 0.03 seconds
+0507.082 (0) The time we have been running (507.1) is approaching the resumption interval (537) - increasing resumption interval to 538
+0507.103 (0) Table wp_itsec_logs: finishing file(s) (2, 3.5 KB)
+0507.132 (0) Table wp_itsec_mutexes: Total expected rows (via COUNT): 0
+0507.145 (0) Table wp_itsec_mutexes: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=609) in 0.03 seconds
+0507.166 (0) Table wp_itsec_mutexes: finishing file(s) (2, 0.4 KB)
+0507.186 (0) Table wp_itsec_opaque_tokens: Total expected rows (approximate): 2
+0507.203 (0) Table wp_itsec_opaque_tokens: Rows added in this batch (next record: 1000): 2 (uncompressed bytes in this segment=1343) in 0.02 seconds
+0507.225 (0) Table wp_itsec_opaque_tokens: finishing file(s) (2, 0.7 KB)
+0507.245 (0) Table wp_itsec_temp: Total expected rows (via COUNT): 6
+0507.251 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0507.264 (0) Table wp_itsec_temp: Rows added in this batch (next record: 6): 6 (uncompressed bytes in this segment=1457) in 0.02 seconds
+0507.285 (0) Table wp_itsec_temp: finishing file(s) (2, 0.5 KB)
+0507.307 (0) Table wp_itsec_user_groups: Total expected rows (approximate): 7
+0507.320 (0) Table wp_itsec_user_groups: Rows added in this batch (next record: 1000): 7 (uncompressed bytes in this segment=1605) in 0.02 seconds
+0507.343 (0) Table wp_itsec_user_groups: finishing file(s) (2, 0.7 KB)
+0507.364 (0) Table wp_itsec_vulnerabilities: Total expected rows (approximate): 0
+0507.370 (0) Table wp_itsec_vulnerabilities: Rows added in this batch (next record: 0): 0 (uncompressed bytes in this segment=1038) in 0.01 seconds
+0507.391 (0) Table wp_itsec_vulnerabilities: finishing file(s) (2, 0.4 KB)
+0507.424 (0) Table wp_links: Total expected rows (via COUNT): 0
+0507.431 (0) Table wp_links: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1298) in 0.02 seconds
+0507.453 (0) Table wp_links: finishing file(s) (2, 0.5 KB)
+0508.326 (0) Table wp_postmeta: Total expected rows (approximate): 2424
+0509.049 (0) Table wp_postmeta: Rows added in this batch (next record: 3919): 2669 (uncompressed bytes in this segment=19332050) in 1.58 seconds
+0509.080 (0) The time we have been running (509.1) is approaching the resumption interval (538) - increasing resumption interval to 540
+0509.103 (0) Table wp_postmeta: finishing file(s) (2, 1316.7 KB)
+0509.298 (0) Table wp_posts: Total expected rows (via COUNT): 463
+0509.302 (0) Table is relatively small; fetch_rows will thus be: 500 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0509.378 (0) Table wp_posts: Rows added in this batch (next record: 491): 463 (uncompressed bytes in this segment=3543516) in 0.26 seconds
+0509.411 (0) Table wp_posts: finishing file(s) (2, 205.1 KB)
+0509.435 (0) Table wp_term_relationships: Total expected rows (approximate): 43
+0509.448 (0) Table wp_term_relationships: Rows added in this batch (next record: 100000): 43 (uncompressed bytes in this segment=1265) in 0.01 seconds
+0509.474 (0) Table wp_term_relationships: finishing file(s) (2, 0.5 KB)
+0509.509 (0) Table wp_term_taxonomy: Total expected rows (via COUNT): 15
+0509.516 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0509.531 (0) Table wp_term_taxonomy: Rows added in this batch (next record: 15): 15 (uncompressed bytes in this segment=3065) in 0.03 seconds
+0509.561 (0) Table wp_term_taxonomy: finishing file(s) (2, 1.1 KB)
+0509.589 (0) Table wp_termmeta: Total expected rows (via COUNT): 24
+0509.594 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0509.600 (0) Table wp_termmeta: Rows added in this batch (next record: 24): 24 (uncompressed bytes in this segment=1676) in 0.02 seconds
+0509.635 (0) Table wp_termmeta: finishing file(s) (2, 0.6 KB)
+0509.663 (0) Table wp_terms: Total expected rows (via COUNT): 15
+0509.670 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0509.677 (0) Table wp_terms: Rows added in this batch (next record: 15): 15 (uncompressed bytes in this segment=1246) in 0.02 seconds
+0509.700 (0) Table wp_terms: finishing file(s) (2, 0.6 KB)
+0509.730 (0) Table wp_cli_cookie_scan: Total expected rows (via COUNT): 0
+0509.745 (0) Table wp_cli_cookie_scan: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=739) in 0.03 seconds
+0509.769 (0) Table wp_cli_cookie_scan: finishing file(s) (2, 0.4 KB)
+0509.793 (0) Table wp_cli_cookie_scan_categories: Total expected rows (via COUNT): 0
+0509.799 (0) Table wp_cli_cookie_scan_categories: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=742) in 0.01 seconds
+0509.821 (0) Table wp_cli_cookie_scan_categories: finishing file(s) (2, 0.4 KB)
+0509.844 (0) Table wp_cli_cookie_scan_cookies: Total expected rows (via COUNT): 0
+0509.851 (0) Table wp_cli_cookie_scan_cookies: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1363) in 0.01 seconds
+0509.874 (0) Table wp_cli_cookie_scan_cookies: finishing file(s) (2, 0.5 KB)
+0509.897 (0) Table wp_cli_cookie_scan_url: Total expected rows (via COUNT): 0
+0509.904 (0) Table wp_cli_cookie_scan_url: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=677) in 0.01 seconds
+0509.926 (0) Table wp_cli_cookie_scan_url: finishing file(s) (2, 0.3 KB)
+0509.956 (0) Table wp_cli_scripts: Total expected rows (via COUNT): 4
+0509.961 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0509.974 (0) Table wp_cli_scripts: Rows added in this batch (next record: 4): 4 (uncompressed bytes in this segment=1425) in 0.03 seconds
+0510.024 (0) The time we have been running (510) is approaching the resumption interval (540) - increasing resumption interval to 541
+0510.054 (0) Table wp_cli_scripts: finishing file(s) (2, 0.6 KB)
+0510.165 (0) Table wp_e_events: Total expected rows (via COUNT): 0
+0510.191 (0) Table wp_e_events: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=525) in 0.08 seconds
+0510.216 (0) Table wp_e_events: finishing file(s) (2, 0.3 KB)
+0510.241 (0) Table wp_e_submissions: Total expected rows (via COUNT): 1
+0510.247 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0510.263 (0) Table wp_e_submissions: Rows added in this batch (next record: 1): 1 (uncompressed bytes in this segment=2708) in 0.03 seconds
+0510.288 (0) Table wp_e_submissions: finishing file(s) (2, 1 KB)
+0510.327 (0) Table wp_e_submissions_actions_log: Total expected rows (via COUNT): 2
+0510.332 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0510.341 (0) Table wp_e_submissions_actions_log: Rows added in this batch (next record: 2): 2 (uncompressed bytes in this segment=1585) in 0.03 seconds
+0510.365 (0) Table wp_e_submissions_actions_log: finishing file(s) (2, 0.5 KB)
+0510.408 (0) Table wp_e_submissions_values: Total expected rows (via COUNT): 5
+0510.417 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0510.423 (0) Table wp_e_submissions_values: Rows added in this batch (next record: 5): 5 (uncompressed bytes in this segment=963) in 0.04 seconds
+0510.457 (0) Table wp_e_submissions_values: finishing file(s) (2, 0.5 KB)
+0510.466 (0) PHP event: code E_WARNING: filemtime(): stat failed for C:\Users\Personal\Local Sites\test1\app\public/wp-content/updraft/backup_2025-02-28-1151_Lunaris_Photography_e860488a4b51-db.gz (line 1923, C:\Users\Personal\Local Sites\test1\app\public\wp-content\plugins\updraftplus\backup.php)
+0510.479 (0) backup_2025-02-28-1151_Lunaris_Photography_e860488a4b51-db-table-wp_options.table.tmpr1383.gz (1/37/fopen): adding to final database dump
+0510.500 (0) backup_2025-02-28-1151_Lunaris_Photography_e860488a4b51-db-table-wp_options.table.gz (2/37/fopen): adding to final database dump
+0510.507 (0) backup_2025-02-28-1151_Lunaris_Photography_e860488a4b51-db-table-wp_users.table.tmpr3.gz (3/37/fopen): adding to final database dump
+0510.515 (0) backup_2025-02-28-1151_Lunaris_Photography_e860488a4b51-db-table-wp_users.table.gz (4/37/fopen): adding to final database dump
+0510.522 (0) backup_2025-02-28-1151_Lunaris_Photography_e860488a4b51-db-table-wp_usermeta.table.tmpr59.gz (5/37/fopen): adding to final database dump
+0510.528 (0) backup_2025-02-28-1151_Lunaris_Photography_e860488a4b51-db-table-wp_usermeta.table.gz (6/37/fopen): adding to final database dump
+0510.539 (0) backup_2025-02-28-1151_Lunaris_Photography_e860488a4b51-db-table-wp_commentmeta.table.tmpr0.gz (7/37/fopen): adding to final database dump
+0510.546 (0) backup_2025-02-28-1151_Lunaris_Photography_e860488a4b51-db-table-wp_commentmeta.table.gz (8/37/fopen): adding to final database dump
+0510.551 (0) backup_2025-02-28-1151_Lunaris_Photography_e860488a4b51-db-table-wp_comments.table.tmpr2.gz (9/37/fopen): adding to final database dump
+0510.558 (0) backup_2025-02-28-1151_Lunaris_Photography_e860488a4b51-db-table-wp_comments.table.gz (10/37/fopen): adding to final database dump
+0510.566 (0) backup_2025-02-28-1151_Lunaris_Photography_e860488a4b51-db-table-wp_e_notes.table.tmpr0.gz (11/37/fopen): adding to final database dump
+0510.573 (0) backup_2025-02-28-1151_Lunaris_Photography_e860488a4b51-db-table-wp_e_notes.table.gz (12/37/fopen): adding to final database dump
+0510.579 (0) backup_2025-02-28-1151_Lunaris_Photography_e860488a4b51-db-table-wp_e_notes_users_relations.table.tmpr0.gz (13/37/fopen): adding to final database dump
+0510.586 (0) backup_2025-02-28-1151_Lunaris_Photography_e860488a4b51-db-table-wp_e_notes_users_relations.table.gz (14/37/fopen): adding to final database dump
+0510.594 (0) backup_2025-02-28-1151_Lunaris_Photography_e860488a4b51-db-table-wp_itsec_bans.table.tmpr0.gz (15/37/fopen): adding to final database dump
+0510.601 (0) backup_2025-02-28-1151_Lunaris_Photography_e860488a4b51-db-table-wp_itsec_bans.table.gz (16/37/fopen): adding to final database dump
+0510.607 (0) backup_2025-02-28-1151_Lunaris_Photography_e860488a4b51-db-table-wp_itsec_dashboard_events.table.tmpr2.gz (17/37/fopen): adding to final database dump
+0510.616 (0) backup_2025-02-28-1151_Lunaris_Photography_e860488a4b51-db-table-wp_itsec_dashboard_events.table.gz (18/37/fopen): adding to final database dump
+0510.623 (0) backup_2025-02-28-1151_Lunaris_Photography_e860488a4b51-db-table-wp_itsec_dashboard_lockouts.table.tmpr0.gz (19/37/fopen): adding to final database dump
+0510.629 (0) backup_2025-02-28-1151_Lunaris_Photography_e860488a4b51-db-table-wp_itsec_dashboard_lockouts.table.gz (20/37/fopen): adding to final database dump
+0510.635 (0) backup_2025-02-28-1151_Lunaris_Photography_e860488a4b51-db-table-wp_itsec_distributed_storage.table.tmpr0.gz (21/37/fopen): adding to final database dump
+0510.644 (0) backup_2025-02-28-1151_Lunaris_Photography_e860488a4b51-db-table-wp_itsec_distributed_storage.table.gz (22/37/fopen): adding to final database dump
+0510.652 (0) backup_2025-02-28-1151_Lunaris_Photography_e860488a4b51-db-table-wp_itsec_fingerprints.table.tmpr0.gz (23/37/fopen): adding to final database dump
+0510.658 (0) backup_2025-02-28-1151_Lunaris_Photography_e860488a4b51-db-table-wp_itsec_fingerprints.table.gz (24/37/fopen): adding to final database dump
+0510.664 (0) backup_2025-02-28-1151_Lunaris_Photography_e860488a4b51-db-table-wp_itsec_firewall_rules.table.tmpr0.gz (25/37/fopen): adding to final database dump
+0510.672 (0) backup_2025-02-28-1151_Lunaris_Photography_e860488a4b51-db-table-wp_itsec_firewall_rules.table.gz (26/37/fopen): adding to final database dump
+0510.679 (0) backup_2025-02-28-1151_Lunaris_Photography_e860488a4b51-db-table-wp_itsec_geolocation_cache.table.tmpr0.gz (27/37/fopen): adding to final database dump
+0510.684 (0) backup_2025-02-28-1151_Lunaris_Photography_e860488a4b51-db-table-wp_itsec_geolocation_cache.table.gz (28/37/fopen): adding to final database dump
+0510.691 (0) backup_2025-02-28-1151_Lunaris_Photography_e860488a4b51-db-table-wp_itsec_lockouts.table.tmpr0.gz (29/37/fopen): adding to final database dump
+0510.700 (0) backup_2025-02-28-1151_Lunaris_Photography_e860488a4b51-db-table-wp_itsec_lockouts.table.gz (30/37/fopen): adding to final database dump
+0510.706 (0) backup_2025-02-28-1151_Lunaris_Photography_e860488a4b51-db-table-wp_itsec_logs.table.tmpr30.gz (31/37/fopen): adding to final database dump
+0510.712 (0) backup_2025-02-28-1151_Lunaris_Photography_e860488a4b51-db-table-wp_itsec_logs.table.gz (32/37/fopen): adding to final database dump
+0510.719 (0) backup_2025-02-28-1151_Lunaris_Photography_e860488a4b51-db-table-wp_itsec_mutexes.table.tmpr0.gz (33/37/fopen): adding to final database dump
+0510.727 (0) backup_2025-02-28-1151_Lunaris_Photography_e860488a4b51-db-table-wp_itsec_mutexes.table.gz (34/37/fopen): adding to final database dump
+0510.734 (0) backup_2025-02-28-1151_Lunaris_Photography_e860488a4b51-db-table-wp_itsec_opaque_tokens.table.tmpr1001.gz (35/37/fopen): adding to final database dump
+0510.739 (0) backup_2025-02-28-1151_Lunaris_Photography_e860488a4b51-db-table-wp_itsec_opaque_tokens.table.gz (36/37/fopen): adding to final database dump
+0510.747 (0) backup_2025-02-28-1151_Lunaris_Photography_e860488a4b51-db-table-wp_itsec_temp.table.tmpr7.gz (37/37/fopen): adding to final database dump
+0510.754 (0) backup_2025-02-28-1151_Lunaris_Photography_e860488a4b51-db-table-wp_itsec_temp.table.gz (38/37/fopen): adding to final database dump
+0510.760 (0) backup_2025-02-28-1151_Lunaris_Photography_e860488a4b51-db-table-wp_itsec_user_groups.table.tmpr1001.gz (39/37/fopen): adding to final database dump
+0510.768 (0) backup_2025-02-28-1151_Lunaris_Photography_e860488a4b51-db-table-wp_itsec_user_groups.table.gz (40/37/fopen): adding to final database dump
+0510.775 (0) backup_2025-02-28-1151_Lunaris_Photography_e860488a4b51-db-table-wp_itsec_vulnerabilities.table.tmpr1.gz (41/37/fopen): adding to final database dump
+0510.784 (0) backup_2025-02-28-1151_Lunaris_Photography_e860488a4b51-db-table-wp_itsec_vulnerabilities.table.gz (42/37/fopen): adding to final database dump
+0510.789 (0) backup_2025-02-28-1151_Lunaris_Photography_e860488a4b51-db-table-wp_links.table.tmpr0.gz (43/37/fopen): adding to final database dump
+0510.794 (0) backup_2025-02-28-1151_Lunaris_Photography_e860488a4b51-db-table-wp_links.table.gz (44/37/fopen): adding to final database dump
+0510.802 (0) backup_2025-02-28-1151_Lunaris_Photography_e860488a4b51-db-table-wp_postmeta.table.tmpr3920.gz (45/37/fopen): adding to final database dump
+0510.858 (0) backup_2025-02-28-1151_Lunaris_Photography_e860488a4b51-db-table-wp_postmeta.table.gz (46/37/fopen): adding to final database dump
+0510.863 (0) backup_2025-02-28-1151_Lunaris_Photography_e860488a4b51-db-table-wp_posts.table.tmpr492.gz (47/37/fopen): adding to final database dump
+0510.879 (0) backup_2025-02-28-1151_Lunaris_Photography_e860488a4b51-db-table-wp_posts.table.gz (48/37/fopen): adding to final database dump
+0510.885 (0) backup_2025-02-28-1151_Lunaris_Photography_e860488a4b51-db-table-wp_term_relationships.table.tmpr100001.gz (49/37/fopen): adding to final database dump
+0510.892 (0) backup_2025-02-28-1151_Lunaris_Photography_e860488a4b51-db-table-wp_term_relationships.table.gz (50/37/fopen): adding to final database dump
+0510.900 (0) backup_2025-02-28-1151_Lunaris_Photography_e860488a4b51-db-table-wp_term_taxonomy.table.tmpr16.gz (51/37/fopen): adding to final database dump
+0510.906 (0) backup_2025-02-28-1151_Lunaris_Photography_e860488a4b51-db-table-wp_term_taxonomy.table.gz (52/37/fopen): adding to final database dump
+0510.912 (0) backup_2025-02-28-1151_Lunaris_Photography_e860488a4b51-db-table-wp_termmeta.table.tmpr25.gz (53/37/fopen): adding to final database dump
+0510.918 (0) backup_2025-02-28-1151_Lunaris_Photography_e860488a4b51-db-table-wp_termmeta.table.gz (54/37/fopen): adding to final database dump
+0510.928 (0) backup_2025-02-28-1151_Lunaris_Photography_e860488a4b51-db-table-wp_terms.table.tmpr16.gz (55/37/fopen): adding to final database dump
+0510.933 (0) backup_2025-02-28-1151_Lunaris_Photography_e860488a4b51-db-table-wp_terms.table.gz (56/37/fopen): adding to final database dump
+0510.938 (0) backup_2025-02-28-1151_Lunaris_Photography_e860488a4b51-db-table-wp_cli_cookie_scan.table.tmpr0.gz (57/37/fopen): adding to final database dump
+0510.945 (0) backup_2025-02-28-1151_Lunaris_Photography_e860488a4b51-db-table-wp_cli_cookie_scan.table.gz (58/37/fopen): adding to final database dump
+0510.953 (0) backup_2025-02-28-1151_Lunaris_Photography_e860488a4b51-db-table-wp_cli_cookie_scan_categories.table.tmpr0.gz (59/37/fopen): adding to final database dump
+0510.958 (0) backup_2025-02-28-1151_Lunaris_Photography_e860488a4b51-db-table-wp_cli_cookie_scan_categories.table.gz (60/37/fopen): adding to final database dump
+0510.965 (0) backup_2025-02-28-1151_Lunaris_Photography_e860488a4b51-db-table-wp_cli_cookie_scan_cookies.table.tmpr0.gz (61/37/fopen): adding to final database dump
+0510.975 (0) backup_2025-02-28-1151_Lunaris_Photography_e860488a4b51-db-table-wp_cli_cookie_scan_cookies.table.gz (62/37/fopen): adding to final database dump
+0510.983 (0) backup_2025-02-28-1151_Lunaris_Photography_e860488a4b51-db-table-wp_cli_cookie_scan_url.table.tmpr0.gz (63/37/fopen): adding to final database dump
+0510.989 (0) backup_2025-02-28-1151_Lunaris_Photography_e860488a4b51-db-table-wp_cli_cookie_scan_url.table.gz (64/37/fopen): adding to final database dump
+0510.996 (0) backup_2025-02-28-1151_Lunaris_Photography_e860488a4b51-db-table-wp_cli_scripts.table.tmpr5.gz (65/37/fopen): adding to final database dump
+0511.004 (0) backup_2025-02-28-1151_Lunaris_Photography_e860488a4b51-db-table-wp_cli_scripts.table.gz (66/37/fopen): adding to final database dump
+0511.009 (0) backup_2025-02-28-1151_Lunaris_Photography_e860488a4b51-db-table-wp_e_events.table.tmpr0.gz (67/37/fopen): adding to final database dump
+0511.015 (0) backup_2025-02-28-1151_Lunaris_Photography_e860488a4b51-db-table-wp_e_events.table.gz (68/37/fopen): adding to final database dump
+0511.023 (0) backup_2025-02-28-1151_Lunaris_Photography_e860488a4b51-db-table-wp_e_submissions.table.tmpr2.gz (69/37/fopen): adding to final database dump
+0511.031 (0) backup_2025-02-28-1151_Lunaris_Photography_e860488a4b51-db-table-wp_e_submissions.table.gz (70/37/fopen): adding to final database dump
+0511.055 (0) backup_2025-02-28-1151_Lunaris_Photography_e860488a4b51-db-table-wp_e_submissions_actions_log.table.tmpr3.gz (71/37/fopen): adding to final database dump
+0511.073 (0) backup_2025-02-28-1151_Lunaris_Photography_e860488a4b51-db-table-wp_e_submissions_actions_log.table.gz (72/37/fopen): adding to final database dump
+0511.091 (0) backup_2025-02-28-1151_Lunaris_Photography_e860488a4b51-db-table-wp_e_submissions_values.table.tmpr6.gz (73/37/fopen): adding to final database dump
+0511.104 (0) backup_2025-02-28-1151_Lunaris_Photography_e860488a4b51-db-table-wp_e_submissions_values.table.gz (74/37/fopen): adding to final database dump
+0511.147 (0) backup_2025-02-28-1151_Lunaris_Photography_e860488a4b51-db.gz: finished writing out complete database file (1943 KB)
+0511.208 (0) Total database tables backed up: 37 (backup_2025-02-28-1151_Lunaris_Photography_e860488a4b51-db.gz, size: 1989712, sha1: 0b66acc4c923ae33ce728424014cea57bfacb803, sha256: b535456bddd6cf6a3ffb71146bea72ec8d21a10374c45fe50059e738875b7c7f)
+0511.239 (0) backup_2025-02-28-1151_Lunaris_Photography_e860488a4b51-plugins.zip: plugins: This file has already been successfully uploaded
+0511.244 (0) backup_2025-02-28-1151_Lunaris_Photography_e860488a4b51-themes.zip: themes: This file has already been successfully uploaded
+0511.252 (0) backup_2025-02-28-1151_Lunaris_Photography_e860488a4b51-uploads.zip: uploads: This file has already been successfully uploaded
+0511.259 (0) backup_2025-02-28-1151_Lunaris_Photography_e860488a4b51-others.zip: others: This file has already been successfully uploaded
+0511.266 (0) backup_2025-02-28-1151_Lunaris_Photography_e860488a4b51-db.gz: db: This file has not yet been successfully uploaded: will queue
+0511.271 (0) Saving backup history. Total backup size: 102.1 MB
+0511.287 (0) Requesting upload of the files that have not yet been successfully uploaded (1)
+0511.307 (0) Cloud backup selection (1/1): googledrive with instance (1/1) (last)
+0511.316 (0) Beginning dispatch of backup to remote (googledrive) (instance identifier s-bcdb7d579a22669c9e27afc2d1d655db)
+0512.136 (0) Google Drive: quota usage: used=5584.8 MB, total=15360 MB, available=9775.2 MB
+0512.143 (0) Google Drive: backup_2025-02-28-1151_Lunaris_Photography_e860488a4b51-db.gz: Attempting to upload to Google Drive (into folder id: 1M2y9KlSqTQAF3CKpypnBut-yR6OKA2xK)
+0515.770 (0) The time we have been running (515.7) is approaching the resumption interval (541) - increasing resumption interval to 546
+0515.782 (0) Googledrive chunked upload: 52.7 % uploaded (1048576)
+0519.127 (0) The time we have been running (519.1) is approaching the resumption interval (546) - increasing resumption interval to 550
+0519.143 (0) Googledrive chunked upload: 100 % uploaded (1048576)
+0519.169 (0) Google Drive: OK: Archive backup_2025-02-28-1151_Lunaris_Photography_e860488a4b51-db.gz uploaded in 7.02 seconds
+0519.177 (0) Recording as successfully uploaded: backup_2025-02-28-1151_Lunaris_Photography_e860488a4b51-db.gz
+0519.193 (0) Deleting local file: backup_2025-02-28-1151_Lunaris_Photography_e860488a4b51-db.gz: OK
+0519.209 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0519.216 (0) Number of backup sets in history: 3; groups (db): 1
+0519.222 (0) Examining (for databases) backup set with group_id=0, nonce=e860488a4b51, datestamp=1740736263 (Feb 28 2025 09:51:03)
+0519.227 (0) This backup set is the backup set just made, so will not be deleted.
+0519.227 (0) Examining (for databases) backup set with group_id=0, nonce=4ca7809fdf8e, datestamp=1740643016 (Feb 27 2025 07:56:56)
+0519.227 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0519.233 (0) Examining (for databases) backup set with group_id=0, nonce=e92b926306bf, datestamp=1740454870 (Feb 25 2025 03:41:10)
+0519.233 (0) 1740454870: db: this set includes a database (backup_2025-02-25-0541_Lunaris_Photography_e92b926306bf-db.gz); db count is now 2
+0519.233 (0) 1740454870: db: over retain limit (2); will delete this database
+0523.898 (0) Google Drive: backup_2025-02-25-0541_Lunaris_Photography_e92b926306bf-db.gz: Deletion successful
+0523.941 (0) The time we have been running (523.9) is approaching the resumption interval (550) - increasing resumption interval to 554
+0523.958 (0) This backup set remains non-empty (f=1/d=0); will retain in history
+0523.967 (0) Number of backup sets in history: 3; groups (files): 1
+0523.973 (0) Examining (for files) backup set with nonce=e860488a4b51, datestamp=1740736263 (Feb 28 2025 09:51:03)
+0523.979 (0) This backup set is the backup set just made, so will not be deleted.
+0523.988 (0) This backup set is the backup set just made, so will not be deleted.
+0523.988 (0) This backup set is the backup set just made, so will not be deleted.
+0523.988 (0) This backup set is the backup set just made, so will not be deleted.
+0523.988 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0523.995 (0) Examining (for files) backup set with nonce=4ca7809fdf8e, datestamp=1740643016 (Feb 27 2025 07:56:56)
+0523.995 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0523.995 (0) Examining (for files) backup set with nonce=e92b926306bf, datestamp=1740454870 (Feb 25 2025 03:41:10)
+0523.995 (0) plugins: over retain limit (2); will delete this file entity
+0523.995 (0) themes: over retain limit (2); will delete this file entity
+0523.995 (0) uploads: over retain limit (2); will delete this file entity
+0523.995 (0) others: over retain limit (2); will delete this file entity
+0527.418 (0) Google Drive: backup_2025-02-25-0541_Lunaris_Photography_e92b926306bf-others.zip: Deletion successful
+0528.543 (0) Google Drive: backup_2025-02-25-0541_Lunaris_Photography_e92b926306bf-uploads.zip: Deletion successful
+0530.026 (0) Google Drive: backup_2025-02-25-0541_Lunaris_Photography_e92b926306bf-themes.zip: Deletion successful
+0531.372 (0) Google Drive: backup_2025-02-25-0541_Lunaris_Photography_e92b926306bf-plugins.zip: Deletion successful
+0531.416 (0) The time we have been running (531.4) is approaching the resumption interval (554) - increasing resumption interval to 562
+0531.437 (0) This backup set remains non-empty (f=1/d=0); will retain in history
+0531.442 (0) Retain: saving new backup history (sets now: 3) and finishing retain operation
+0531.464 (0) Resume backup (e860488a4b51, 0): finish run
+0531.484 (0) Decremented the semaphore (fd) by 1
+0531.498 (0) Semaphore (fd) unlocked
+0531.506 (0) There were no errors in the uploads, so the 'resume' event (1) is being unscheduled
+0531.533 (0) Deleting zip manifest (backup_2025-02-28-1151_Lunaris_Photography_e860488a4b51-plugins.zip.list.tmp)
+0531.542 (0) Deleting zip manifest (backup_2025-02-28-1151_Lunaris_Photography_e860488a4b51-themes.zip.list.tmp)
+0531.552 (0) Deleting zip manifest (backup_2025-02-28-1151_Lunaris_Photography_e860488a4b51-uploads.zip.list.tmp)
+0531.564 (0) Deleting zip manifest (backup_2025-02-28-1151_Lunaris_Photography_e860488a4b51-others.zip.list.tmp)
+0531.575 (0) No email will/can be sent - the user has not configured an email address.
+0531.582 (0) The backup succeeded and is now complete

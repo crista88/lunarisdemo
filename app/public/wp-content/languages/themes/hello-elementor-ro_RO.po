@@ -1,0 +1,498 @@
+# Translation of Themes - Hello Elementor in Romanian
+# This file is distributed under the same license as the Themes - Hello Elementor package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2024-08-31 17:02:53+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n == 1) ? 0 : ((n == 0 || n % 100 >= 2 && n % 100 <= 19) ? 1 : 2);\n"
+"X-Generator: GlotPress/4.0.1\n"
+"Language: ro\n"
+"Project-Id-Version: Themes - Hello Elementor\n"
+
+#. Description of the theme
+#: style.css
+#, gp-priority: high
+msgid "Hello Elementor is a lightweight and minimalist WordPress theme that was built specifically to work seamlessly with the Elementor site builder plugin. The theme is free, open-source, and designed for users who want a flexible, easy-to-use, and customizable website. The theme, which is optimized for performance, provides a solid foundation for users to build their own unique designs using the Elementor drag-and-drop site builder. Its simplicity and flexibility make it a great choice for both beginners and experienced Web Creators."
+msgstr "Hello Elementor este o temă WordPress ușoară și minimalistă, care a fost creată special pentru a funcționa perfect cu modulul constructor de site-uri Elementor. Tema este gratuită, open-source și concepută pentru utilizatorii care doresc un site web flexibil, ușor de utilizat și personalizabil. Tema, care este optimizată pentru performanță, oferă o bază solidă pentru ca utilizatorii să își construiască propriile modele unice folosind constructorul de site-uri prin trage și plasează Elementor. Simplitatea și flexibilitatea sa o fac o alegere excelentă atât pentru începători, cât și pentru creatorii web experimentați."
+
+#. Theme Name of the theme
+#: style.css
+#, gp-priority: high
+msgid "Hello Elementor"
+msgstr "Hello Elementor"
+
+#: template-parts/dynamic-header.php:66
+msgid "Mobile menu"
+msgstr "Meniu pentru mobil"
+
+#: template-parts/dynamic-header.php:53 template-parts/header.php:43
+msgid "Main menu"
+msgstr "Meniu principal"
+
+#: template-parts/dynamic-footer.php:47 template-parts/footer.php:20
+msgid "Footer menu"
+msgstr "Meniu subsol"
+
+#: includes/settings/settings-footer.php:159
+#: includes/settings/settings-header.php:144
+msgid "After"
+msgstr "După"
+
+#: includes/settings/settings-footer.php:155
+#: includes/settings/settings-header.php:140
+msgid "Below"
+msgstr "Sub"
+
+#: includes/settings/settings-footer.php:151
+#: includes/settings/settings-header.php:136
+msgid "Before"
+msgstr "Înainte de"
+
+#: includes/settings/settings-footer.php:148
+#: includes/settings/settings-header.php:133
+msgid "Tagline Position"
+msgstr "Poziție slogan"
+
+#: includes/customizer-functions.php:62
+msgid "Upgrade Now"
+msgstr "Actualizează acum"
+
+#: includes/customizer-functions.php:60
+msgid "Customize your entire website with Elementor Pro"
+msgstr "Personalizezi întregul site-ul cu Elementor Pro"
+
+#: includes/settings/settings-footer.php:748
+#: includes/settings/settings-header.php:781
+msgid "Elementor Pro"
+msgstr "Elementor Pro"
+
+#: includes/settings/settings-footer.php:738
+#: includes/settings/settings-header.php:771
+msgid "Get Elementor Pro"
+msgstr "Ia Elementor Pro"
+
+#: includes/customizer/customizer-action-links.php:56
+#: includes/customizer/customizer-action-links.php:75
+#: includes/customizer/customizer-action-links.php:85
+#: includes/customizer/customizer-action-links.php:95
+#: assets/js/hello-admin.js:182 assets/js/hello-admin.js:190
+#: assets/js/hello-admin.js:198 assets/js/hello-admin.js:206
+msgid "Elementor"
+msgstr "Elementor"
+
+#: includes/settings/settings-header.php:24
+msgid "Hello Theme Header"
+msgstr "Antet temă Hello"
+
+#. translators: %s: Link that opens the theme settings page.
+#: includes/settings/settings-footer.php:105
+#: includes/settings/settings-header.php:91
+msgid "Note: Hiding all the elements, only hides them visually. To disable them completely go to <a href=\"%s\">Theme Settings</a> ."
+msgstr "Notă: Ascunzând toate elementele, le ascunde doar vizual. Pentru a le dezactiva complet, accesează <a href=\"%s\">Setări temă</a> ."
+
+#: includes/settings/settings-footer.php:23
+msgid "Hello Theme Footer"
+msgstr "Subsol temă Hello"
+
+#: includes/elementor-functions.php:224
+msgid "Learn More"
+msgstr "Află mai multe"
+
+#: includes/elementor-functions.php:222
+msgid "Customize and style the builtin Hello Theme’s cross-site header & footer from the Elementor \"Site Settings\" panel."
+msgstr "Personalizează și stilizează antetul și subsolul încrucișate ale temei Hello încorporate din panoul „Setări site” Elementor."
+
+#: includes/customizer/customizer-action-links.php:98
+#: assets/js/hello-admin.js:209
+msgid "Start Designing"
+msgstr "Începe proiectarea"
+
+#: includes/customizer/customizer-action-links.php:97
+#: assets/js/hello-admin.js:208
+msgid "Customize your cross-site header & footer from Elementor’s \"Site Settings\" panel."
+msgstr "Personalizează-ți antetul și subsolul încrucișate din panoul „Setări site” Elementor."
+
+#: includes/customizer/customizer-action-links.php:96
+#: assets/js/hello-admin.js:207
+msgid "Style cross-site header & footer"
+msgstr "Stil antet și subsol încrucișate"
+
+#: includes/customizer/customizer-action-links.php:88
+#: assets/js/hello-admin.js:201
+msgid "Activate header & footer experiment"
+msgstr "Activează antetul și subsolul experimentale"
+
+#: includes/customizer/customizer-action-links.php:87
+#: assets/js/hello-admin.js:200
+msgid "Design your cross-site header & footer from Elementor’s \"Site Settings\" panel."
+msgstr "Proiectează-ți antetul și subsolul încrucișate din panoul „Setări site” Elementor."
+
+#: includes/customizer/customizer-action-links.php:86
+#: assets/js/hello-admin.js:199
+msgid "Style using Elementor"
+msgstr "Stilizează folosind Elementor"
+
+#: includes/customizer/customizer-action-links.php:58
+#: includes/customizer/customizer-action-links.php:77
+#: assets/js/hello-admin.js:184 assets/js/hello-admin.js:192
+msgid "Create cross-site header & footer using Elementor."
+msgstr "Creează antet și subsol încrucișate folosind Elementor."
+
+#: includes/customizer-functions.php:17 includes/elementor-functions.php:218
+msgid "Header & Footer"
+msgstr "Antet și subsol"
+
+#: includes/admin-functions.php:48
+msgid "Once you download and activate the plugin, you are only one click away from building an amazing website."
+msgstr "Odată ce descarci și activezi modulul, ești la doar un clic distanță de a construi un site web uimitor."
+
+#: includes/admin-functions.php:39
+msgid "Once you activate the plugin, you are only one click away from building an amazing website."
+msgstr "Odată ce activezi modulul, ești la doar un clic distanță de a construi un site web uimitor."
+
+#: includes/admin-functions.php:32
+msgid "The Hello Theme is a lightweight starter theme that works perfectly with the Elementor award-winning site builder plugin."
+msgstr "Tema Hello este o temă de pornire ușoară, care funcționează perfect cu modulul premiat de construcție a site-urilor Elementor."
+
+#: includes/settings-functions.php:18
+msgid "Theme Settings"
+msgstr "Setări temă"
+
+#: includes/settings-functions.php:17 assets/js/hello-admin.js:141
+#: assets/js/hello-admin.js:245
+msgid "Hello Theme Settings"
+msgstr "Setări temă Hello"
+
+#. translators: %s: Link that opens Elementor's "Site Identity" panel.
+#: includes/settings/settings-footer.php:323
+#: includes/settings/settings-header.php:325
+msgid "Go to <a href=\"%s\">Site Identity</a> to manage your site's title"
+msgstr "Mergi la <a href=\"%s\">Identitate site</a> pentru a gestiona titlul site-ului tău"
+
+#: includes/admin-functions.php:136
+msgid "Explore Elementor Site Builder Plugin"
+msgstr "Explorează modulul de construit site-uri Elementor"
+
+#: includes/settings/settings-footer.php:742
+#: includes/settings/settings-header.php:775
+msgid "Upgrade"
+msgstr "Actualizează"
+
+#: header.php:30
+msgid "Skip to content"
+msgstr "Sari la conținut"
+
+#: includes/settings/settings-header.php:785
+msgid "Create Header"
+msgstr "Creează un antet"
+
+#: includes/settings/settings-header.php:782
+msgid "Create a custom header with the Theme Builder"
+msgstr "Creează un antet personalizat cu Constructor de teme"
+
+#: includes/settings/settings-header.php:772
+msgid "Create a custom header with multiple options"
+msgstr "Creează un antet personalizat cu opțiuni multiple"
+
+#: includes/settings/settings-header.php:695
+msgid "Toggle Color"
+msgstr "Comută culoarea"
+
+#: includes/settings/settings-header.php:662
+msgid "None"
+msgstr "Nimic"
+
+#: includes/settings/settings-header.php:667
+msgid "Breakpoint"
+msgstr "Punct de oprire"
+
+#: includes/settings/settings-header.php:639
+msgid "Dropdown"
+msgstr "Listă derulantă"
+
+#: includes/settings/settings-header.php:638
+msgid "Horizontal"
+msgstr "Orizontal"
+
+#: includes/settings/settings-header.php:634
+msgid "Menu Layout"
+msgstr "Aranjament meniu"
+
+#: includes/settings/settings-footer.php:752
+msgid "Create Footer"
+msgstr "Creează un subsol"
+
+#: includes/settings/settings-footer.php:750
+#: includes/settings/settings-header.php:783
+msgid "With the Theme Builder you can jump directly into each part of your site"
+msgstr "Cu Constructor de teme poți să mergi direct la fiecare parte a site-ului"
+
+#: includes/settings/settings-footer.php:749
+msgid "Create a custom footer with the Theme Builder"
+msgstr "Creează un subsol personalizat cu Constructor de teme"
+
+#: includes/settings/settings-footer.php:740
+#: includes/settings/settings-header.php:773
+msgid "Upgrade to Elementor Pro and enjoy free design and many more features"
+msgstr "Actualizează la Elementor Pro și ai design gratuit și multe alte funcționalități"
+
+#: includes/settings/settings-footer.php:739
+msgid "Create a custom footer with multiple options"
+msgstr "Creează un subsol personalizat cu opțiuni multiple"
+
+#: includes/settings/settings-footer.php:670
+msgid "All rights reserved"
+msgstr "Toate drepturile sunt rezervate."
+
+#: includes/settings/settings-footer.php:618
+#: includes/settings/settings-header.php:681
+msgid "Color"
+msgstr "Culoare"
+
+#: includes/settings/settings-footer.php:585
+#: includes/settings/settings-header.php:601
+msgid "Go to <a href=\"%s\" target=\"_blank\">Menus screen</a> to create one."
+msgstr "Pentru a crea un meniu nou, mergi la <a href=\"%s\" target=\"_blank\">ecranul Meniuri</a>."
+
+#: includes/settings/settings-footer.php:583
+#: includes/settings/settings-header.php:599
+msgid "There are no menus in your site."
+msgstr "Nu ai meniuri pe site-ul tău."
+
+#: includes/settings/settings-footer.php:572
+#: includes/settings/settings-header.php:588
+msgid "— Select a Menu —"
+msgstr "- Selectează un meniu -"
+
+#. translators: %s: Link that opens Elementor's "Site Identity" panel.
+#: includes/settings/settings-footer.php:509
+#: includes/settings/settings-header.php:518
+msgid "Go to <a href=\"%s\">Site Identity</a> to manage your site's tagline"
+msgstr "Pentru a administra sloganul site-ului tău, mergi la <a href=\"%s\">Identitate site</a>"
+
+#: includes/settings/settings-footer.php:379
+#: includes/settings/settings-footer.php:537
+#: includes/settings/settings-footer.php:630
+#: includes/settings/settings-footer.php:692
+#: includes/settings/settings-header.php:381
+#: includes/settings/settings-header.php:546
+#: includes/settings/settings-header.php:724
+msgid "Typography"
+msgstr "Tipografice"
+
+#: includes/settings/settings-footer.php:430
+#: includes/settings/settings-footer.php:458
+#: includes/settings/settings-footer.php:522
+#: includes/settings/settings-footer.php:677
+#: includes/settings/settings-header.php:432
+#: includes/settings/settings-header.php:460
+#: includes/settings/settings-header.php:531
+msgid "Text Color"
+msgstr "Culoare text"
+
+#. translators: %s: Link that opens Elementor's "Site Identity" panel.
+#: includes/settings/settings-footer.php:305
+#: includes/settings/settings-header.php:307
+msgid "Go to <a href=\"%s\">Site Identity</a> to manage your site's logo"
+msgstr "Pentru a administra logoul site-ului, mergi la <a href=\"%s\">Identitate site</a>"
+
+#: includes/settings/settings-footer.php:352
+#: includes/settings/settings-header.php:354
+msgid "Logo Width"
+msgstr "Lățime logo"
+
+#: includes/settings/settings-footer.php:342
+#: includes/settings/settings-header.php:344
+msgid "Title"
+msgstr "Titlu"
+
+#: includes/settings/settings-footer.php:341
+#: includes/settings/settings-header.php:343
+msgid "Logo"
+msgstr "Logo"
+
+#: includes/settings/settings-footer.php:337
+#: includes/settings/settings-header.php:339
+msgid "Type"
+msgstr "Tip"
+
+#: includes/settings/settings-footer.php:278
+#: includes/settings/settings-header.php:273
+msgid "Background"
+msgstr "Fundal"
+
+#: includes/settings/settings-footer.php:226
+#: includes/settings/settings-header.php:211
+msgid "Content Width"
+msgstr "Lățime conținut"
+
+#: includes/settings/settings-footer.php:214
+#: includes/settings/settings-header.php:199
+msgid "Full Width"
+msgstr "Lățime completă"
+
+#: includes/settings/settings-footer.php:213
+#: includes/settings/settings-header.php:198
+msgid "Boxed"
+msgstr "Încasetat"
+
+#: includes/settings/settings-footer.php:211
+#: includes/settings/settings-header.php:196
+msgid "Width"
+msgstr "Lățime"
+
+#: includes/settings/settings-footer.php:129
+#: includes/settings/settings-header.php:114
+msgid "Centered"
+msgstr "Centrat"
+
+#: includes/settings/settings-footer.php:125
+#: includes/settings/settings-header.php:110
+msgid "Inverted"
+msgstr "Inversat"
+
+#: includes/settings/settings-footer.php:133
+#: includes/settings/settings-header.php:118
+msgid "Default"
+msgstr "Implicit"
+
+#: includes/settings/settings-footer.php:122
+#: includes/settings/settings-header.php:107
+msgid "Layout"
+msgstr "Aranjament"
+
+#: includes/settings/settings-footer.php:90
+#: includes/settings/settings-footer.php:651
+msgid "Copyright"
+msgstr "Drepturi de autor"
+
+#: includes/settings/settings-footer.php:78
+#: includes/settings/settings-footer.php:563
+#: includes/settings/settings-footer.php:608
+#: includes/settings/settings-header.php:77
+#: includes/settings/settings-header.php:572
+#: includes/settings/settings-header.php:624
+msgid "Menu"
+msgstr "Meniu"
+
+#: includes/settings/settings-footer.php:66
+#: includes/settings/settings-footer.php:495
+#: includes/settings/settings-header.php:66
+#: includes/settings/settings-header.php:497
+msgid "Tagline"
+msgstr "Slogan"
+
+#: includes/settings/settings-footer.php:57
+#: includes/settings/settings-footer.php:69
+#: includes/settings/settings-footer.php:81
+#: includes/settings/settings-footer.php:93
+#: includes/settings/settings-header.php:58
+#: includes/settings/settings-header.php:69
+#: includes/settings/settings-header.php:80
+msgid "Hide"
+msgstr "Ascunde"
+
+#: includes/settings/settings-footer.php:56
+#: includes/settings/settings-footer.php:68
+#: includes/settings/settings-footer.php:80
+#: includes/settings/settings-footer.php:92
+#: includes/settings/settings-header.php:57
+#: includes/settings/settings-header.php:68
+#: includes/settings/settings-header.php:79
+msgid "Show"
+msgstr "Arată"
+
+#: includes/settings/settings-footer.php:54
+#: includes/settings/settings-footer.php:291
+#: includes/settings/settings-header.php:55
+#: includes/settings/settings-header.php:286
+msgid "Site Logo"
+msgstr "Logo site"
+
+#: includes/admin-functions.php:131
+msgid "Get Elementor"
+msgstr "Obține Elementor"
+
+#: functions.php:33 includes/settings/settings-footer.php:46
+msgid "Footer"
+msgstr "Subsol"
+
+#: functions.php:32 includes/settings/settings-header.php:47
+msgid "Header"
+msgstr "Antet"
+
+#: includes/admin-functions.php:134
+msgid "Thanks for installing the Hello Theme!"
+msgstr "Îți mulțumim că ai instalat tema Hello!"
+
+#: includes/admin-functions.php:50
+#: includes/customizer/customizer-action-links.php:57
+#: includes/customizer/customizer-action-links.php:59
+#: assets/js/hello-admin.js:183 assets/js/hello-admin.js:185
+msgid "Install Elementor"
+msgstr "Instalează Elementor"
+
+#: includes/admin-functions.php:41
+#: includes/customizer/customizer-action-links.php:76
+#: includes/customizer/customizer-action-links.php:78
+#: assets/js/hello-admin.js:191 assets/js/hello-admin.js:193
+msgid "Activate Elementor"
+msgstr "Activează Elementor"
+
+#: comments.php:37
+msgctxt "comments title"
+msgid "%s Response"
+msgid_plural "%s Responses"
+msgstr[0] "%s răspuns"
+msgstr[1] "%s răspunsuri"
+msgstr[2] "%s de răspunsuri"
+
+#: comments.php:32
+msgctxt "comments title"
+msgid "One Response"
+msgstr "Un răspuns"
+
+#: template-parts/search.php:43
+msgid "It seems we can't find what you're looking for."
+msgstr "Se pare că nu putem găsi ceea ce cauți."
+
+#: template-parts/search.php:17
+msgid "Search results for: "
+msgstr "Rezultate de căutare pentru: "
+
+#: template-parts/dynamic-footer.php:33 template-parts/dynamic-header.php:39
+#: template-parts/header.php:30
+msgid "Home"
+msgstr "Prima pagină"
+
+#: template-parts/single.php:30
+msgid "Tagged "
+msgstr "Etichetat "
+
+#: template-parts/404.php:21
+msgid "It looks like nothing was found at this location."
+msgstr "Se pare că nu este nimic la această locație."
+
+#: template-parts/404.php:16
+msgid "The page can&rsquo;t be found."
+msgstr "Pagina nu poate fi găsită."
+
+#. Author URI of the theme
+#: style.css
+#, gp-priority: low
+msgid "https://elementor.com/?utm_source=wp-themes&utm_campaign=author-uri&utm_medium=wp-dash"
+msgstr "https://elementor.com/?utm_source=wp-themes&utm_campaign=author-uri&utm_medium=wp-dash"
+
+#. Theme URI of the theme
+#: style.css
+#, gp-priority: low
+msgid "https://elementor.com/hello-theme/?utm_source=wp-themes&utm_campaign=theme-uri&utm_medium=wp-dash"
+msgstr "https://elementor.com/hello-theme/?utm_source=wp-themes&utm_campaign=theme-uri&utm_medium=wp-dash"
+
+#. Author of the theme
+#: style.css
+#, gp-priority: low
+msgid "Elementor Team"
+msgstr "Echipa Elementor"
